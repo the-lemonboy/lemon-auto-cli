@@ -1,9 +1,9 @@
-# Pandly CLI
+# Lemon CLI
 
 > A pro CLI for scaffolding Vue.js projects
 
 # Usage
 
-`npm install pandly-cli -g`
+`npm install lemon-auto-cli -g`
 
-`pandly create xxx`# lemon-auto-cli
+`lemon create xxx`# lemon-auto-cli
