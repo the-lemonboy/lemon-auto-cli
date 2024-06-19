@@ -27,7 +27,7 @@ const projectName = inPlace ? path.relative('../', process.cwd()) : rawName
 // 创建项目目录的绝对路径
 const projectPath = path.resolve(projectName || '.')
 // 远程模板下载到本地的路径
-const downloadPath = path.join(home, '.vue-pro-template')
+const downloadPath = path.join(home, '.template')
 
 const spinner = ora()
 

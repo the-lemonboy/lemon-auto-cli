@@ -16,7 +16,7 @@
     "cli",
     "spa"
   ],
-  "author": "Pandly Shen",
+  "author": "lemon",
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.0.0",
