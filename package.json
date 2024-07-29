@@ -1,6 +1,6 @@
 {
   "name": "lemon-auto-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A pro CLI for scaffolding Vue.js projects",
   "preferGlobal": true,
   "bin": {

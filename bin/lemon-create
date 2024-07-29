@@ -73,7 +73,7 @@ function run() {
   })
 
 }
-
+// download-git-repo模板下载
 function downloadAndGenerate (officialTemplate, answers) {
   spinner.start('Downloading template ...')
   download(officialTemplate, downloadPath, { clone: false }, err => {
